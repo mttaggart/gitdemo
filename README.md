@@ -1,2 +1,3 @@
 # Git Demo
-Nice job, you've pulled down some remote work. Might want to check out new.txt as well!
+
+Welcome to Git! This small repository will let you practice the basics of Git and GitHub.
